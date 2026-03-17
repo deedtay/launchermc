@@ -1,0 +1,13 @@
+name = "Gateways to Eternity - More Gateways"
+filename = "gatewaysmg1.20.1-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b8b4bf20a3320b27895868e3ceaf5b8e88bca50f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6261370
+project-id = 1030753

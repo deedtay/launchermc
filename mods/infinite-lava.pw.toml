@@ -1,0 +1,13 @@
+name = "Infinite Lava"
+filename = "InfiniteLava-Forge-1.20.1-v1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1a26c3896830c685f991cc90d0b5156bce18b147"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5511218
+project-id = 626699

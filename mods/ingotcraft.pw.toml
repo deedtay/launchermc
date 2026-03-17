@@ -1,0 +1,13 @@
+name = "IngotCraft"
+filename = "ingotcraft-1.20.1-2.4.11-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b9a29d146112f75d1b917cd0a92b5427f50359d3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6668139
+project-id = 399140

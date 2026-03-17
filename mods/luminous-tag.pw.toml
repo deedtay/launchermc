@@ -1,0 +1,13 @@
+name = "LUMINOUS TAG"
+filename = "LuminousTag V1.1 - Forge 1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2b0535b04efef6202368939b3e1db4cd77f7ef35"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5830765
+project-id = 1078066

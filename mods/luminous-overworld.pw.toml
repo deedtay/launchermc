@@ -1,0 +1,13 @@
+name = "LUMINOUS: OVERWORLD"
+filename = "Luminous V1.5.2 - Forge 1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "789627d635e35d7188f3a5963b87f6f454733250"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6588230
+project-id = 909107
