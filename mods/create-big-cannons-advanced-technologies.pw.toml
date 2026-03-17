@@ -1,0 +1,13 @@
+name = "Create Big Cannons: Advanced Technologies"
+filename = "cbc_at_forge_1.20.1_0.1.3a.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "619b931b69d5be4b6642005bdc6a0cbb61a2eb07"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6700520
+project-id = 1180196

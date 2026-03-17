@@ -1,0 +1,13 @@
+name = "Critters n' Crawlers"
+filename = "Critters n' Crawlers-2.2.4-mc1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "90eab9f00b06a546ef7dee38dca706dfaf5b2883"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6715272
+project-id = 979755

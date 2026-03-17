@@ -1,0 +1,13 @@
+name = "Create: The Factory Must Grow"
+filename = "tfmg-1.0.1b.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e8a98e8d63d1b1915046925afdbdd1c13368c8bd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6729106
+project-id = 693815

@@ -1,0 +1,13 @@
+name = "Create: Buffers and Beams Overhauled!"
+filename = "cbabo V1.1 forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f5a7eeb9a86d8923e7179ab6cacbf8b0f251d55f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5437626
+project-id = 1013196
