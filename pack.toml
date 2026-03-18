@@ -1,0 +1,13 @@
+name = "Legacy of Adventure"
+author = "Xylophone34"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "82471ffca6b85d1b670c1f9a8d3c11410a143f5def94ed150e9eaddd7bb4b232"
+
+[versions]
+forge = "47.4.17"
+minecraft = "1.20.1"
