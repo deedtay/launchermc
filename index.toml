@@ -341,11 +341,6 @@ hash = "ac3cee991e651328f73d6939d489f86df2c3ad70ae3b8eeb9617b5549ae48444"
 metafile = true
 
 [[files]]
-file = "mods/create-recycle-everything.pw.toml"
-hash = "1d987c4ca9901405394b0a3988a40f2e046cae68008d7f192a60890660b98394"
-metafile = true
-
-[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "a3f0acb8e8f174555b615ff1da684ebfe0817dc4d43df12b6d8def9214c759ed"
 metafile = true
@@ -358,11 +353,6 @@ metafile = true
 [[files]]
 file = "mods/create-tweaked-controllers.pw.toml"
 hash = "91354129d4adaf2982fbf6d975331067ad39a6e408de32383ea8ff65a3c71e7a"
-metafile = true
-
-[[files]]
-file = "mods/create-wizardry.pw.toml"
-hash = "6bf15f6d63c807360897f7b592c0047d7d997975c4b9ab42449a9819f17df4eb"
 metafile = true
 
 [[files]]
@@ -388,11 +378,6 @@ metafile = true
 [[files]]
 file = "mods/critters-and-companions.pw.toml"
 hash = "67321b642d34507ff66f3aa2b19d13da45ac74c967be7b47aee2344cafd91ea9"
-metafile = true
-
-[[files]]
-file = "mods/critters-n-crawlers.pw.toml"
-hash = "098c1b7d70a6411b9496bcf017fb30b81d151334f48fcb0c5e5986b4b008b95d"
 metafile = true
 
 [[files]]
@@ -483,11 +468,6 @@ metafile = true
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "2f30de9a0d70d37a56c283c98c69e0d264515d5876b7e2a9d78d1f1941692a3f"
-metafile = true
-
-[[files]]
-file = "mods/entityculling.pw.toml"
-hash = "82787d227d3ff84be0087828dfbd9b87f20fac75a87edb43b33441b0e5d9c175"
 metafile = true
 
 [[files]]
@@ -1043,11 +1023,6 @@ metafile = true
 [[files]]
 file = "mods/simply-swords.pw.toml"
 hash = "60fffd9990be454a9dffb87a2804f654e6deb21b2ee63924ef4a84d443612352"
-metafile = true
-
-[[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "7bb432917c6ef02707ca54843771cd252ceb10417d84aa6d625b52f8eae4ed41"
 metafile = true
 
 [[files]]
