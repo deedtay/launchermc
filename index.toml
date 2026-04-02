@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/Critters n' Crawlers-2.2.5-mc1.20.1.jar"
+hash = "ddd1946dbbb958369d3fc6217481ca2cc53b018f3d29bec3301b4d2393707dca"
+
+[[files]]
 file = "mods/advanced-mining-dimension.pw.toml"
 hash = "c086607d9dd7248285513ea317cf1351a488a13d13d0dfcad09a0b483795b5f9"
 metafile = true
@@ -341,11 +345,6 @@ hash = "ac3cee991e651328f73d6939d489f86df2c3ad70ae3b8eeb9617b5549ae48444"
 metafile = true
 
 [[files]]
-file = "mods/create-recycle-everything.pw.toml"
-hash = "1d987c4ca9901405394b0a3988a40f2e046cae68008d7f192a60890660b98394"
-metafile = true
-
-[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "a3f0acb8e8f174555b615ff1da684ebfe0817dc4d43df12b6d8def9214c759ed"
 metafile = true
@@ -361,14 +360,17 @@ hash = "91354129d4adaf2982fbf6d975331067ad39a6e408de32383ea8ff65a3c71e7a"
 metafile = true
 
 [[files]]
-file = "mods/create-wizardry.pw.toml"
-hash = "6bf15f6d63c807360897f7b592c0047d7d997975c4b9ab42449a9819f17df4eb"
-metafile = true
-
-[[files]]
 file = "mods/create.pw.toml"
 hash = "26b5eb49763ba8b3078ea93222f2b73e86ad4b3b2030a1b7628aab37b9061ae2"
 metafile = true
+
+[[files]]
+file = "mods/create_recycle_1.0.2_forge_1.20.1.jar"
+hash = "dbdf418ae63f929600784db71310ed80c7e7c30a60d1f3467dccb2a9d81caa52"
+
+[[files]]
+file = "mods/create_wizardry-1.20.1-0.4.2.jar"
+hash = "961c6fb4dc19892052f9af625679849c222bbc8813a9a610e1e201e63ce965d9"
 
 [[files]]
 file = "mods/createaddition.pw.toml"
@@ -388,11 +390,6 @@ metafile = true
 [[files]]
 file = "mods/critters-and-companions.pw.toml"
 hash = "67321b642d34507ff66f3aa2b19d13da45ac74c967be7b47aee2344cafd91ea9"
-metafile = true
-
-[[files]]
-file = "mods/critters-n-crawlers.pw.toml"
-hash = "098c1b7d70a6411b9496bcf017fb30b81d151334f48fcb0c5e5986b4b008b95d"
 metafile = true
 
 [[files]]
@@ -491,9 +488,8 @@ hash = "2f30de9a0d70d37a56c283c98c69e0d264515d5876b7e2a9d78d1f1941692a3f"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "82787d227d3ff84be0087828dfbd9b87f20fac75a87edb43b33441b0e5d9c175"
-metafile = true
+file = "mods/entityculling-forge-1.10.0-mc1.20.1.jar"
+hash = "dcb672eaefeca825dd43ac258cbbddb179d2434a96578a4b60e34624c33663ec"
 
 [[files]]
 file = "mods/epic-knights-addon.pw.toml"
@@ -1066,9 +1062,8 @@ hash = "60fffd9990be454a9dffb87a2804f654e6deb21b2ee63924ef4a84d443612352"
 metafile = true
 
 [[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "7bb432917c6ef02707ca54843771cd252ceb10417d84aa6d625b52f8eae4ed41"
-metafile = true
+file = "mods/skinlayers3d-forge-1.11.1-mc1.20.1.jar"
+hash = "acedcb6d850a669f7f8e17919a36e87ff6d95461da32098cec730bc293e79d10"
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
