@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "MAJ.bat"
-hash = "2531e1305b5a8983ad226df12af8b583d31ce106fde7c33e58e669bdbd50d437"
-
-[[files]]
 file = "mods/Critters n' Crawlers-2.2.4-mc1.20.1.jar"
 hash = "9539f72630f3007e8721dfd807b1111e470dd2e2bb86ec54aa3ba6b33a029469"
 
